@@ -1,0 +1,9 @@
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\bin\Debug\UTS-Foodcourt-Menu-App.exe.config
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\bin\Debug\UTS-Foodcourt-Menu-App.exe
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\bin\Debug\UTS-Foodcourt-Menu-App.pdb
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\obj\Debug\UTS-Foodcourt-Menu-App.csproj.AssemblyReference.cache
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\obj\Debug\UTS_Foodcourt_Menu_App.Properties.Resources.resources
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\obj\Debug\UTS-Foodcourt-Menu-App.csproj.GenerateResource.cache
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\obj\Debug\UTS-Foodcourt-Menu-App.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\obj\Debug\UTS-Foodcourt-Menu-App.exe
+C:\Users\Aaron Smith\Documents\Git\UTS-Foodcourt-Menu\UTS-Foodcourt-Menu-App\obj\Debug\UTS-Foodcourt-Menu-App.pdb
